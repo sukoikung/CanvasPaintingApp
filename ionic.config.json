@@ -1,5 +1,7 @@
 {
   "name": "ionic-drawing",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
